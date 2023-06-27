@@ -1,0 +1,23 @@
+System Requirements Software 
+
+1.1 Introduction
+  To Develop and gaming application related to modern days
+  1.2 Purpose
+    To get name in games developmemt industry and to earn profit 
+  1.3 Scope
+    There is a large demand to gaming nowadays
+2.1 Overall  Description
+  2.2 System features
+      Application should gave low latency
+      FPS should work accurately
+  2.3 Operating Environment
+      Android 
+      IOS
+3.1 Functional Requirements
+    Software: Server Config, UI/UX developer
+    Hardware: Server,Systems
+4.1 Interfaces
+  4.2 Hardware Interface
+     4gb ram, 1gb Storage , Snapdragon 780+
+  4.3 Communication Interface
+      Wifi version 6 , Bluetooth version 6
